@@ -5,3 +5,8 @@
 .content {
   margin: 16px;
 }
+
+kws-temperature {
+  font-size: 36px;
+  cursor: pointer;
+}
